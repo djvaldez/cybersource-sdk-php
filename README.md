@@ -83,8 +83,3 @@ composer.phar dump-autoload
 
 If you installed PHPUnit with Composer, run the tests from the project root with the command ````vendor/bin/phpunit````.
 
-##Documentation
-
-For more information about CyberSource services, see <http://www.cybersource.com/developers/documentation>
-
-For all other support needs, see <http://www.cybersource.com/support>
